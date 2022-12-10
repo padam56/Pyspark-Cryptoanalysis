@@ -1,6 +1,6 @@
 ## Pyspark Cryptoanalysis and Prediction System
 
-Analysis and prediction of Crypto data using Distrubuted Machine Learning
+Analysis and prediction of Crypto data using Distributed Machine Learning
 
 ## Tools and Technology used:
 - HDFS
