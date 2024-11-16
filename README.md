@@ -18,3 +18,4 @@ Analysis and prediction of Crypto data using Distributed Machine Learning
 
 ## Authors
 - [Padam Jung Thapa](mailto:padamjung.thapa@coyotes.usd.edu)
+- [Pratyush Pradhan](mailto:pratyush.pradhan@coyotes.usd.edu)
